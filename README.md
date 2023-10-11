@@ -2,8 +2,6 @@
 <h3 align="center">A Passionate Software Engineer</h3>
 <img align="right" alt="programmer" width="400" src="https://i.pinimg.com/originals/43/23/e9/4323e9a710bb6c8973346125892c845c.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roxyal&label=Profile%20views&color=0e75b6&style=flat" alt="roxyal" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://kelvinwahh.vercel.app/](https://kelvinwahh.vercel.app/)
 
 - 📫 How to reach me **zapper5312@hotmail.com**
